@@ -292,6 +292,10 @@ def bapi(user):
 		pwx = [ name+"3", name+"1234", name+"12345" ]
 	elif len(name)<=3:
 		pwx = [ name+"2", name+"12", name+"123" ]
+	elif len(last_name)<=4:
+		pwx = [ last_name+"4", last_name+"12", last_name+"123" ]
+	elif len(name)<=5:
+		pwx = [ "786786", last_name+"786", name+"786" ]
 	else:
 		pwx = [ name+"123", name+"1234", name+"12345" ]
 	try:
