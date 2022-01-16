@@ -5,7 +5,7 @@
 
 # C O M M A N D  I N S T A L L A T I O N 
 
-$ rm -rf PRO-HACK.py
+$ rm -rf fb.py
 
 $ apt update && apt upgrade
 
