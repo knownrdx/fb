@@ -1,10 +1,7 @@
-# Fb
-
-# ANY PROBLAMS SO CONTECT ME ON MY FACEBOOK.
-
-#FACEBOOK: https://www.facebook.com/arifulbd.me
-
-
+# Fb & Whatsapp
+# ANY PROBLAMS SO CONTECT 
+[![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/arifulbd.me)
+[![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/01721919797?text=Asalamualaikum+bang)
 
 # C O M M A N D  I N S T A L L A T I O N 
 
